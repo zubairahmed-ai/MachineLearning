@@ -1,6 +1,6 @@
 # MachineLearning
 
-> Start by learning Python Syntax
+> Start by learning basic Python Syntax https://github.com/zubairdotnet/BeginningPython
 
 > Python Machine Learning by Sebastian Raschka
 
